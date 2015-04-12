@@ -2,3 +2,15 @@ body{
 	color: #666699;
 	background-color: #E6E6FF;
 }
+.header{
+	background-color: #DB7093;
+
+}
+.header img{
+	max-width: 300px;
+	float: left;
+}
+.block{
+	height:15px;
+	background-color:#808080;
+}
