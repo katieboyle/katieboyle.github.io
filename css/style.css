@@ -3,14 +3,14 @@ body{
 	background-color: #E6E6FF;
 }
 .header{
-	max-height:175px;
+	max-height:150px;
 	padding: 20px;
 
 }
 .header img{
 	vertical-align: middle;
 	padding: 10px;
-	max-width:200px;
+	max-height:150px;
 }
 .line{
 	width: 100%;
