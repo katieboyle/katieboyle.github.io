@@ -12,7 +12,8 @@ body{
 	max-width:200px;
 }
 .line{
-	width:100%;
-	background-color: ##b7b7b7;
-	display: block;	
+	width: 100%;
+ 	background-color: #FF8C00;
+  	display: block;
+  	height: 15px;
 }
