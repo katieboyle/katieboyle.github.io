@@ -3,7 +3,8 @@ body{
 	background-color: #E6E6FF;
 }
 .header{
-	max-height:50px;
+	max-height:100px;
+	padding: 20px;
 
 }
 .header img{
