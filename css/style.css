@@ -6,13 +6,13 @@ body{
 
 }
 .header img{
-	max-width:200px;
+	padding-left: 150px;
+	min-width:300px;
 }
-.block{
-	background-color: ##b7b7b7;
-	height:20px;
+.line{
 	width:100%;
+	background-color: ##b7b7b7;
 	display: block;
-
-
+	height:10px;
+	
 }
