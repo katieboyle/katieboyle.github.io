@@ -9,8 +9,9 @@ body{
 	max-width:200px;
 }
 .block{
-	background-color: ##111111;
-	height:10px;
+	background-color: ##b7b7b7;
+	height:20px;
+	width:100%;
 
 
 }
