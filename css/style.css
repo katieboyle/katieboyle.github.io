@@ -6,8 +6,9 @@ body{
 
 }
 .header img{
-	padding-left: 150px;
-	min-width:300px;
+	vertical-align: middle;
+	padding: 10px;
+	max-width:300px;
 }
 .line{
 	width:100%;
