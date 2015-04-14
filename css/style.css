@@ -11,10 +11,5 @@ body{
 	vertical-align: middle;
 	padding: 10px;
 	max-height:100px;
-}
-.line{
-	width: 100%;
- 	background-color: #B8B1BE;
-  	display: block;
-  	height: 5px;
+	background-color: #B8B1BE;
 }
