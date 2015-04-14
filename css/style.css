@@ -9,7 +9,7 @@ body{
 
 }
 .header img{
-	vertical-align: middle;
+	text-align: center;
 	padding: 10px;
 	max-height:100px;
 	background-color: #FFF0F5;
