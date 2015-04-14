@@ -3,14 +3,18 @@ body{
 	background-color: #E6E6FF;
 }
 .header{
-	max-height:100px;
+	max-height:150px;
 	padding: 10px;
 
 }
 .header img{
+	float:center;
 	vertical-align: middle;
 	padding: 10px;
 	max-height:100px;
 	background-color: #FFF0F5;
 	border:1px solid #021a40;
+}
+.aboutme {
+	text-align: center;
 }
