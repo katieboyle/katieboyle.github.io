@@ -16,9 +16,9 @@ body{
 	border:1px solid #021a40;
 }
 #slogan{
+	text-align: center;
 	font-size: 10px;
-	text-decoration: italic;
-	text-transform: capitalize;
+	text-decoration: overline;
 }
 .aboutme {
 	text-align: center;
