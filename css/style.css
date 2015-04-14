@@ -18,3 +18,10 @@ body{
 .aboutme {
 	text-align: center;
 }
+ul{
+	list-style-position: inside;
+}
+.sayhello{
+	text-align:center;
+	text-decoration: underline;
+}
