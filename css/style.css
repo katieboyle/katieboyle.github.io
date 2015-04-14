@@ -42,4 +42,6 @@ body{
 }
 .sayhello a{
 	color: #FF0066;
+	font-size:20px;
+	font-weight:20px;
 }
