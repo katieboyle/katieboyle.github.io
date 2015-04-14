@@ -1,6 +1,7 @@
 body{
-	color: #666699;
+	color: #021a40;
 	background-color: #E6E6FF;
+	font-family:"sans serif";
 }
 .header{
 	max-height:150px;
@@ -8,7 +9,6 @@ body{
 
 }
 .header img{
-	float:center;
 	vertical-align: middle;
 	padding: 10px;
 	max-height:100px;
@@ -17,6 +17,7 @@ body{
 }
 .aboutme {
 	text-align: center;
+	font-size: 12px;
 }
 ul{
 	list-style-position: inside;
@@ -24,4 +25,7 @@ ul{
 .sayhello{
 	text-align:center;
 	text-decoration: underline;
+}
+.sayhello a{
+	color: #FFF0F5;
 }
