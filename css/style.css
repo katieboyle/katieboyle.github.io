@@ -12,7 +12,7 @@ body{
 .header img{
 	padding: 10px;
 	max-height:100px;
-	background-color: #FFF0F5;
+	background-color: #FFFFFF;
 	border:1px solid #021a40;
 }
 .aboutme {
@@ -25,7 +25,9 @@ ul{
 .sayhello{
 	text-align:center;
 	text-decoration: underline;
+	font-size: 20px;
+	font-weight: 10px;
 }
 .sayhello a{
-	color: #FFF011;
+	color: #FFF001;
 }
