@@ -1,6 +1,7 @@
 body{
 	color: #021a40;
 	background-image: url("images/background.jpg");
+	background-size: cover;
 
 }
 
