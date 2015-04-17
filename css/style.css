@@ -1,8 +1,21 @@
 body{
 	color: #021a40;
 	background-color: #c0afb8;
-	font-family:"sans serif";
+
 }
+
+h1 {
+    font-family: 'Lobster', Georgia, Times, serif;
+    font-size: 70px;
+    line-height: 100px;
+}
+ 
+p {
+    font-family: 'Cabin', Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 25px;
+}
+
 .enter img{
 	width:100%;
 	height:auto;
