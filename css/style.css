@@ -23,7 +23,7 @@ p {
 
 }
 .header{
-	text-align: center;
+	text-align: left;
 	max-height:300px;
 	padding: 10px;
 
@@ -34,7 +34,7 @@ p {
 
 }
 #slogan{
-	text-align: center;
+	text-align: left;
 	font-size: 15px;
 }
 .aboutme {
