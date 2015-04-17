@@ -1,7 +1,7 @@
 body{
-	color: #021a40;
-	background-image: url("images/background.jpg");
-	background-size: cover;
+	background-image: url("/images/background.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
