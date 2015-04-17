@@ -24,15 +24,14 @@ p {
 }
 .header{
 	text-align: center;
-	max-height:150px;
+	max-height:300px;
 	padding: 10px;
 
 }
 .header img{
 	padding: 10px;
-	max-height:100px;
-	background-color: #c0afb8;
-	border:3px solid #021a40;
+	max-height:300px;
+
 }
 #slogan{
 	text-align: center;
