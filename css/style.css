@@ -34,18 +34,20 @@ p {
 
 }
 #slogan{
+	font-family: 'Lobster', Georgia, Times, serif;
 	text-align: center;
 	font-size: 15px;
 }
 .aboutme {
+	border-style: line;
 	border-color: #111111;
 	border-width: 2px;
 	text-align: left;
 	font-size: 20px;
-	width: 33%;
+	width: 40%;
 }
 .aboutme h1{
-	font-size: 30px;
+	font-size: 25px;
 	text-decoration:underline;
 	text-transform: uppercase;
 }
