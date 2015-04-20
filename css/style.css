@@ -10,12 +10,6 @@ h1 {
     font-size: 70px;
     line-height: 100px;
 }
- 
-p {
-    font-family: 'Cabin', Helvetica, Arial, sans-serif;
-    font-size: 15px;
-    line-height: 25px;
-}
 
 .enter img{
 	width:100%;
@@ -39,9 +33,7 @@ p {
 	font-size: 15px;
 }
 .aboutme {
-	border-style: line;
-	border-color: #111111;
-	border-width: 2px;
+	border: 2px gray;
 	text-align: left;
 	font-size: 20px;
 	width: 40%;
