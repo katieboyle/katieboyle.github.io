@@ -33,13 +33,11 @@ h1 {
 	font-size: 15px;
 }
 .aboutme {
-	border: 2px solid black;
-	text-align: left;
 	font-size: 20px;
-	width: 40%;
 }
 .aboutme h1{
 	font-size: 25px;
+	text-align: left;
 	text-decoration:underline;
 	text-transform: uppercase;
 }
@@ -47,7 +45,7 @@ h1 {
 	font-family: 'Cabin', Helvetica, Arial, sans-serif;
 	list-style-type: disc;
 	display: inline-block;
-    text-align:left;
+    text-align:center;
 }
 .sayhello{
 	text-align:center;
