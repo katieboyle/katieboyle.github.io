@@ -11,8 +11,8 @@
 	height:auto;
 }
 .header{
-	background-image: url ("/images/colordots.jpg");
-	display:inline-block;
+	background-image: url("/images/colordots.jpg");
+	display:block;
 	font-family: 'Signyard One';
 	font-size: 5em;
 	text-align: center;
