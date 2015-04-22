@@ -18,7 +18,7 @@
 	text-align: center;
 	min-height: 200px;
 }
-#headercontent{
+.header #headercontent{
 	position: absolute;
 	bottom: 0px;
 	text-align: center;
