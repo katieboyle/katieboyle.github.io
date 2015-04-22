@@ -22,6 +22,8 @@
 	position: absolute;
 	bottom: 0px;
 	text-align: center;
+	width:100%;
+	margin: 0 auto;
 }
 #slogan{
 	font-family: 'Signyard One', Georgia, Times, serif;
