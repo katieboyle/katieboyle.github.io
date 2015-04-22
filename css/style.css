@@ -16,7 +16,6 @@
 	font-family: 'Signyard One';
 	font-size: 5em;
 	text-align: center;
-	max-height:1200px;
 	padding: 10px;
 }
 #slogan{
@@ -25,6 +24,7 @@
 	font-size: 2em;
 }
 .aboutme {
+	font-family: 'Signyard One';
 	font-size: 20px;
 }
 .aboutme h1{
