@@ -46,12 +46,11 @@
 }
 .sayhello{
 	text-align:center;
-	text-decoration: underline;
 }
 .sayhello a{
 	font-family: 'Signyard One';
 	font-size:3em;
 	color: #FF0066;
 	padding:2px;
-	border:2px solid #FF0066;
+	border:1px solid #FF0066;
 }
