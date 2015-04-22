@@ -49,10 +49,12 @@
 .sayhello{
 	text-align:center;
 	text-decoration: underline;
+	border:5px solid #FF0066;
 	
 }
 .sayhello a{
 	font-family: 'Signyard One';
 	font-size:3em;
 	color: #FF0066;
+	border:5px solid #FF0066;
 }
