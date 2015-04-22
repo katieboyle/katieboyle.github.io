@@ -60,13 +60,10 @@ h1 {
 .sayhello{
 	text-align:center;
 	text-decoration: underline;
-	font-size: 20px;
-	font-weight: 900;
+	
 }
 .sayhello a{
 	font-family: 'Signyard One';
-	font-size:30px;
+	font-size:3em;
 	color: #FF0066;
-	font-size:20px;
-	font-weight:900;
 }
