@@ -5,16 +5,14 @@
 @font-face {
 	font-family: 'Signyard One';
 	src: url("/font/signyardone.otf");
-
 }
-
 .enter img{
 	width:100%;
 	height:auto;
-
 }
 .header{
 	background-image: url ("/images/colordots.jpg");
+	display:inline-block;
 	font-family: 'Signyard One';
 	font-size: 5em;
 	text-align: center;
