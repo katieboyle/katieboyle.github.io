@@ -40,13 +40,13 @@ h1 {
 #slogan{
 	font-family: 'Signyard One', Georgia, Times, serif;
 	text-align: center;
-	font-size: 15px;
+	font-size: 2em;
 }
 .aboutme {
 	font-size: 20px;
 }
 .aboutme h1{
-	font-size: 25px;
+	font-size: 3em;
 	text-align: left;
 	text-decoration:underline;
 	text-transform: uppercase;
