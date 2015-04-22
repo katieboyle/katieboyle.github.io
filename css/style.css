@@ -12,17 +12,12 @@
 }
 .header{
 	background-image: url("/images/colordots.jpg");
-	display:block;
 	position:relative;
 	font-family: 'Signyard One';
 	font-size: 5em;
 	text-align: center;
-	padding: 10px;
-	min-height: 200px;
-}
-#headercontent{
-	position:absolute;
 	vertical-align: bottom;
+	min-height: 200px;
 }
 #slogan{
 	font-family: 'Signyard One', Georgia, Times, serif;
