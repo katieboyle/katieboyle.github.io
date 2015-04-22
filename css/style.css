@@ -9,7 +9,6 @@
 }
 
 body{
-	background-image: url("/images/colordots.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 	font-family: 'Paris Pro', Helvetica, Arial, sans-serif;
@@ -27,6 +26,9 @@ h1 {
 
 }
 .header{
+	background-image: url ("/images/colordots.jpg");
+	font-family: 'Signyard One';
+	font-size: 5em;
 	text-align: center;
 	max-height:200px;
 	padding: 10px;
