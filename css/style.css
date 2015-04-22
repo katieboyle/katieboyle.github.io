@@ -1,6 +1,10 @@
 @font-face {
 	font-family: 'Paris Pro';
 	src: url("/font/parisproregular.otf");
+}
+@font-face {
+	font-family: 'Signyard One';
+	src: url("/font/signyardone.otf");
 
 }
 
@@ -12,7 +16,7 @@ body{
 }
 
 h1 {
-    font-family: 'Lobster', Georgia, Times, serif;
+    font-family: 'Signyard One', Georgia, Times, serif;
     font-size: 70px;
     line-height: 100px;
 }
@@ -34,7 +38,7 @@ h1 {
 
 }
 #slogan{
-	font-family: 'Lobster', Georgia, Times, serif;
+	font-family: 'Signyard One', Georgia, Times, serif;
 	text-align: center;
 	font-size: 15px;
 }
@@ -48,7 +52,7 @@ h1 {
 	text-transform: uppercase;
 }
 .aboutme ul{
-	font-family: 'Cabin', Helvetica, Arial, sans-serif;
+	font-family: 'Paris Pro', Helvetica, Arial, sans-serif;
 	list-style-type: disc;
 	display: inline-block;
     text-align:center;
