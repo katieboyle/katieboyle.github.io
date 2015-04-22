@@ -8,18 +8,6 @@
 
 }
 
-body{
-    background-repeat: no-repeat;
-    background-size: cover;
-	font-family: 'Paris Pro', Helvetica, Arial, sans-serif;
-}
-
-h1 {
-    font-family: 'Signyard One', Georgia, Times, serif;
-    font-size: 70px;
-    line-height: 100px;
-}
-
 .enter img{
 	width:100%;
 	height:auto;
@@ -32,12 +20,6 @@ h1 {
 	text-align: center;
 	max-height:200px;
 	padding: 10px;
-
-}
-.header img{
-	padding: 10px;
-	max-height:200px;
-
 }
 #slogan{
 	font-family: 'Signyard One', Georgia, Times, serif;
