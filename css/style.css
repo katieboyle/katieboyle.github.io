@@ -18,9 +18,10 @@
 	text-align: center;
 	min-height: 200px;
 }
-.header #headercontent{
+#headercontent{
 	position: absolute;
 	bottom: 0px;
+	text-align: center;
 }
 #slogan{
 	font-family: 'Signyard One', Georgia, Times, serif;
