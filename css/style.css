@@ -1,8 +1,14 @@
+@font-face {
+	font-family: 'Paris Pro';
+	src: url("/font/parisproregular.otf");
+
+}
+
 body{
 	background-image: url("/images/background.gif");
     background-repeat: no-repeat;
     background-size: cover;
-	font-family: 'Cabin', Helvetica, Arial, sans-serif;
+	font-family: 'Paris Pro', Helvetica, Arial, sans-serif;
 }
 
 h1 {
