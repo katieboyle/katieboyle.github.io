@@ -21,6 +21,7 @@
 }
 .header content{
 	position:relative;
+	vertical-align: bottom;
 }
 #slogan{
 	font-family: 'Signyard One', Georgia, Times, serif;
