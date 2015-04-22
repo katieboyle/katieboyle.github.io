@@ -15,8 +15,10 @@
 	background-image: url("/images/colordots.jpg");
 	font-family: 'Signyard One';
 	font-size: 5em;
+	color:#78bba9;
 	text-align: center;
 	min-height: 200px;
+	width:100%;
 }
 .header #headercontent{
 	position: absolute;
