@@ -13,14 +13,15 @@
 .header{
 	background-image: url("/images/colordots.jpg");
 	display:block;
+	position:relative;
 	font-family: 'Signyard One';
 	font-size: 5em;
 	text-align: center;
 	padding: 10px;
 	min-height: 200px;
 }
-.header p{
-	position:relative;
+#headercontent{
+	position:absolute;
 	vertical-align: bottom;
 }
 #slogan{
