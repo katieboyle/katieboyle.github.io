@@ -9,6 +9,7 @@
   text-decoration: none;
   color: transparent;
   font-weight: bold;
+  background-image: url("/images/bacon.jpg");
 }
 
 .portfolio a:hover {
@@ -19,5 +20,4 @@
 .portfolio {
   width: 600px;
   height:400px;
-  background-image: url("/images/bacon.jpg");
 }
