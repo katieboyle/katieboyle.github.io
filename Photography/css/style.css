@@ -5,7 +5,10 @@
   padding:25px;
   float:left;
 }
-#bacon a, #brunch a {
+.clear{
+  clear: both;
+}
+#bacon a, #brunch a, #chai a, #cocoa a, #cupcakes a, #nuts a, #photobooth a, #pinecones a, #yarn a {
   display:inline-block;
   padding: 25px;
   width: 200px;
@@ -17,7 +20,7 @@
   font-weight: bold;
 }
 
-#bacon a:hover, #brunch a:hover {
+#bacon a:hover, #brunch a:hover, #chai a:hover, #cocoa a:hover, #cupcakes a:hover, #nuts a:hover, #photobooth a:hover, #pinecones a:hover, #yarn a:hover {
   background-color: rgba(0,0,0,.6);
   color: white;
 }
@@ -33,6 +36,62 @@
 #brunch {
   width:250px;
   background-image: url("/Photography/images/brunchthumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#chai {
+  width:250px;
+  background-image: url("/Photography/images/chaithumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#cocoa {
+  width:250px;
+  background-image: url("/Photography/images/cocoathumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#cupcakes {
+  width:250px;
+  background-image: url("/Photography/images/cupcakesthumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#nuts {
+  width:250px;
+  background-image: url("/Photography/images/nutsthumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#photobooth {
+  width:250px;
+  background-image: url("/Photography/images/photobooththumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#pinecones {
+  width:250px;
+  background-image: url("/Photography/images/pineconesthumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#yarn {
+  width:250px;
+  background-image: url("/Photography/images/yarnthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   float:left;
