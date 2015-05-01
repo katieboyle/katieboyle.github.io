@@ -1,7 +1,7 @@
 .portfolioframe {
   max-width: 250px;
 } 
-#bacon, #brunch a {
+#bacon a, #brunch a {
   padding: 5%;
   width: 90%;
   text-align: center;
@@ -12,7 +12,7 @@
   font-weight: bold;
 }
 
-.#bacon, #brunch a:hover {
+.#bacon a:hover, #brunch a:hover {
   background-color: rgba(0,0,0,.6);
   color: white;
 }
