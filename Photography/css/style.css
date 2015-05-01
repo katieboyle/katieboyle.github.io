@@ -4,8 +4,7 @@
 #bacon a, #brunch a {
   display:block;
   padding: 25px;
-  max-width: 200px;
-  height:90%;
+  width: 200px;
   text-align: center;
   font-family: Arial, sans-serif;
   font-size: 20px;
