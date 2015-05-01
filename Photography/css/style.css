@@ -2,7 +2,7 @@
   max-width: 250px;
 } 
 #bacon a, #brunch a {
-  display:block;
+  display:inline-block;
   padding: 25px;
   width: 200px;
   text-align: center;
