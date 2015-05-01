@@ -12,7 +12,7 @@
   font-weight: bold;
 }
 
-.#bacon a:hover, #brunch a:hover {
+#bacon a:hover, #brunch a:hover {
   padding: 5%;
   width: 90%;
   background-color: rgba(0,0,0,.6);
