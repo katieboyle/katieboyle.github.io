@@ -11,6 +11,7 @@
   text-decoration: none;
   color: transparent;
   font-weight: bold;
+  float:left;
 }
 
 #bacon a:hover, #brunch a:hover {
@@ -23,7 +24,6 @@
   background-image: url("/Photography/images/baconthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  float: left;
 }
 
 #brunch {
@@ -31,6 +31,5 @@
   background-image: url("/Photography/images/brunchthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  float: left;
 
 }
