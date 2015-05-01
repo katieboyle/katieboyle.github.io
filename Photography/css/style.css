@@ -20,7 +20,6 @@
 
 #bacon {
   width:250px;
-  padding:25px;
   background-image: url("/Photography/images/baconthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -29,7 +28,6 @@
 
 #brunch {
   width:250px;
-  padding:25px;
   background-image: url("/Photography/images/brunchthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
