@@ -1,7 +1,7 @@
 .portfolioframe {
   max-width: 250px;
 } 
-.portfolio a {
+#bacon #brunch a {
   display: block;
   padding: 5%;
   width: 90%;
@@ -13,13 +13,19 @@
   font-weight: bold;
 }
 
-.portfolio a:hover {
+.#bacon #brunch a:hover {
   background-color: rgba(0,0,0,.6);
   color: white;
 }
 
-.portfolio {
+#bacon {
   width:250px;
   height:100%;
   background-image: url("/Photography/images/baconthumbnail.jpg");
+}
+
+#brunch {
+  width:250px;
+  height:100%;
+  background-image: url("/Photography/images/brunchthumbnail.jpg");
 }
