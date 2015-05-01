@@ -1,5 +1,6 @@
 .portfolioframe {
   max-width: 100%;
+  margin: 5% auto;
 } 
 .space{
   padding:5px;
@@ -9,7 +10,7 @@
   display: block;
   clear: both;
   width: 100%;
-  padding:10px;
+  padding:5px;
 }
 #bacon a, #brunch a, #chai a, #cocoa a, #cupcakes a, #nuts a, #photobooth a, #pinecones a, #yarn a {
   display:inline-block;
