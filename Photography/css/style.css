@@ -1,8 +1,10 @@
+.portfolioframe {
+  max-width: 30%;
+} 
 .portfolio a {
   display: block;
-  padding: 50px;
-  width: 300px;
-  height:150px;
+  padding: 5%;
+  width: 95%;
   text-align: center;
   font-family: Arial, sans-serif;
   font-size: 20px;
@@ -17,7 +19,6 @@
 }
 
 .portfolio {
-  width: 400px;
-  height:250px;
+  width:100%;
   background-image: url("/Photography/images/bacon.jpg");
 }
