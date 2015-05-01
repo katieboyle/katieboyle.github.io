@@ -1,0 +1,23 @@
+.portfolio a {
+  display: block;
+  padding: 50px;
+  width: 500px;
+  height:300px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+  color: transparent;
+  font-weight: bold;
+}
+
+.portfolio a:hover {
+  background-color: rgba(0,0,0,.6);
+  color: white;
+}
+
+.portfolio {
+  width: 600px;
+  height:400px;
+  background-image: url("/images/bacon.jpg");
+}
