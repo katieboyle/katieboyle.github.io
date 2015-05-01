@@ -1,5 +1,6 @@
 .portfolioframe {
   max-width: 250px;
+  float:left;
 } 
 #bacon a, #brunch a {
   display:inline-block;
@@ -31,4 +32,5 @@
   background-image: url("/Photography/images/brunchthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  float:left;
 }
