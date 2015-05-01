@@ -1,11 +1,10 @@
 .portfolioframe {
   max-width: 100%;
-  float:left;
 } 
 #bacon a, #brunch a {
   display:inline-block;
   padding: 25px;
-  width: 200px;
+  width: 225px;
   text-align: center;
   font-family: Arial, sans-serif;
   font-size: 20px;
@@ -21,6 +20,7 @@
 
 #bacon {
   width:250px;
+  padding:25px;
   background-image: url("/Photography/images/baconthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -29,6 +29,7 @@
 
 #brunch {
   width:250px;
+  padding:25px;
   background-image: url("/Photography/images/brunchthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
