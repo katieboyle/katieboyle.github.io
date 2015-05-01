@@ -23,6 +23,7 @@
   background-image: url("/Photography/images/baconthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  float:left;
 }
 
 #brunch {
