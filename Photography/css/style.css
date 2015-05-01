@@ -13,10 +13,8 @@
 }
 
 #bacon a:hover, #brunch a:hover {
-  padding: 5%;
-  width: 90%;
   background-color: rgba(0,0,0,.6);
-  color: black;
+  color: white;
 }
 
 #bacon {
