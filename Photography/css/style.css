@@ -1,7 +1,7 @@
 .portfolio a {
   display: block;
   padding: 50px;
-  width: 100%;
+  width: 300px;
   height:150px;
   text-align: center;
   font-family: Arial, sans-serif;
@@ -17,7 +17,7 @@
 }
 
 .portfolio {
-  width: 100%;
+  width: 400px;
   height:250px;
   background-image: url("/Photography/images/bacon.jpg");
 }
