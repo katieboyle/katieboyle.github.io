@@ -17,5 +17,7 @@
 }
 
 .portfolio {
+  width: 600px;
+  height:400px;
   background-image: url("/Photography/images/bacon.jpg");
 }
