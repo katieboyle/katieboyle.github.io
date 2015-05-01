@@ -1,6 +1,9 @@
 .portfolioframe {
   max-width: 100%;
 } 
+.space{
+  padding:25px;
+}
 #bacon a, #brunch a {
   display:inline-block;
   padding: 25px;
