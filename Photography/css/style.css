@@ -13,7 +13,7 @@
 }
 #bacon a, #brunch a, #chai a, #cocoa a, #cupcakes a, #nuts a, #photobooth a, #pinecones a, #yarn a {
   display:inline-block;
-  padding: 10px;
+  padding: 10px, 5px;
   width: 230px;
   text-align: center;
   font-family: Arial, sans-serif;
