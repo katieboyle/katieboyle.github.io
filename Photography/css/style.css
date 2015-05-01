@@ -21,9 +21,14 @@
 #bacon {
   width:250px;
   background-image: url("/Photography/images/baconthumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #brunch {
   width:250px;
   background-image: url("/Photography/images/brunchthumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
