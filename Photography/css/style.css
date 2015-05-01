@@ -3,6 +3,7 @@
 } 
 .space{
   padding:25px;
+  float:left;
 }
 #bacon a, #brunch a {
   display:inline-block;
