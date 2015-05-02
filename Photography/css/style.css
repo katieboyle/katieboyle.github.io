@@ -51,7 +51,7 @@
 #bacon a, #brunch a, #chai a, #cocoa a, #cupcakes a, #nuts a, #photobooth a, #pinecones a, #yarn a {
   display:inline-block;
   padding: 50px;
-  width: 300px;
+  width: 250px;
   text-align: center;
   font-family: Arial, sans-serif;
   font-size: 20px;
@@ -66,7 +66,7 @@
 }
 
 #bacon {
-  width:400px;
+  width:350px;
   background-image: url("/Photography/images/baconthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -74,7 +74,7 @@
 }
 
 #brunch {
-  width:400px;
+  width:350px;
   background-image: url("/Photography/images/brunchthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -82,7 +82,7 @@
 }
 
 #chai {
-  width:400px;
+  width:350px;
   background-image: url("/Photography/images/chaithumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -90,7 +90,7 @@
 }
 
 #cocoa {
-  width:400px;
+  width:350px;
   background-image: url("/Photography/images/cocoathumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -98,7 +98,7 @@
 }
 
 #cupcakes {
-  width:400px;
+  width:350px;
   background-image: url("/Photography/images/cupcakesthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -106,7 +106,7 @@
 }
 
 #nuts {
-  width:400px;
+  width:350px;
   background-image: url("/Photography/images/nutsthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -114,7 +114,7 @@
 }
 
 #photobooth {
-  width:400px;
+  width:350px;
   background-image: url("/Photography/images/photobooththumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -122,7 +122,7 @@
 }
 
 #pinecones {
-  width:400px;
+  width:350px;
   background-image: url("/Photography/images/pineconesthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -130,7 +130,7 @@
 }
 
 #yarn {
-  width:400px;
+  width:350px;
   background-image: url("/Photography/images/yarnthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
