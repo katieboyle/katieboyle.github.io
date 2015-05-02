@@ -24,7 +24,15 @@
   font-size: 20px;
   width:25%;
   border: 5px solid black;
+  float:left;
+  text-align:center;
 }
+
+.home a, .blog a, .pricing a, .contact a {
+  color: black;
+  text-decoration: none;
+}
+
 .portfolioframe {
   max-width: 800px;
   margin:auto;
