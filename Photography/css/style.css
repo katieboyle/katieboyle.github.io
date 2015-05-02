@@ -34,6 +34,7 @@
 }
 
 .portfolioframe {
+  font-family: 'Cardo';
   max-width: 87%;
   margin:auto;
   text-align: center;
@@ -54,7 +55,7 @@
   padding: 50px;
   width: 250px;
   text-align: center;
-  font-family: Arial, sans-serif;
+  font-family: 'Cardo';
   font-size: 20px;
   text-decoration: none;
   color: transparent;
@@ -67,8 +68,7 @@
 }
 
 #bacon {
-  width:250px;
-  padding: 50px;
+  width:350px;
   background-image: url("/Photography/images/baconthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -76,8 +76,7 @@
 }
 
 #brunch {
-  width:250px;
-  padding: 50px;
+  width:350px;
   background-image: url("/Photography/images/brunchthumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -85,8 +84,7 @@
 }
 
 #chai {
-  width:250px;
-  padding: 50px;
+  width:350px;
   background-image: url("/Photography/images/chaithumbnail.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -139,4 +137,10 @@
   background-repeat: no-repeat;
   background-size: cover;
   float:left;
+}
+
+.footer{
+  font-family: 'Cardo';
+  font-size: 15px;
+  text-align: left; 
 }
