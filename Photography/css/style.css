@@ -1,10 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Cardo);
 @font-face {
   font-family: 'Paris Pro';
   src: url("/font/parisproregular.otf")
 }
 .header{
   font-family: 'Paris Pro';
-  font-size: 50px;
+  font-size: 60px;
   width:100%;
   text-align: center;
 }
@@ -13,6 +14,16 @@
   width:100%;
   height:5px;
   background-color: black;
+}
+.nav {
+  width:100%;
+  height:20px;
+}
+.home, .blog, .pricing, .contact {
+  font-family: 'Cardo';
+  font-size: 20px;
+  width:25%;
+  border: 5px solid black;
 }
 .portfolioframe {
   max-width: 800px;
