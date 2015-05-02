@@ -1,3 +1,13 @@
+@font-face {
+  font-family: 'Paris Pro';
+  src: url("/font/parisproregular.otf")
+}
+.header{
+  font-family: 'Paris Pro';
+  font-size: 50px;
+  width:100%;
+  text-align: center;
+}
 .portfolioframe {
   max-width: 800px;
   margin:auto;
