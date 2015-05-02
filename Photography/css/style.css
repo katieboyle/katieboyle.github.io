@@ -34,19 +34,19 @@
 }
 
 .portfolioframe {
-  max-width: 800px;
+  max-width: 100%;
   margin:auto;
   text-align: center;
 } 
 .space{
-  padding:5px;
+  padding:10px;
   float:left;
 }
 .clear{
   display: block;
   clear: both;
   width: 100%;
-  padding:5px;
+  padding:10px;
 }
 #bacon a, #brunch a, #chai a, #cocoa a, #cupcakes a, #nuts a, #photobooth a, #pinecones a, #yarn a {
   display:inline-block;
