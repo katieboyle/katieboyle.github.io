@@ -164,10 +164,15 @@
   font-size: 15px;
 }
 .blog img {
-  max-width: 100px;
+  max-width: 150px;
   display: inline-block;
   float: left;
 }
+.preview {
+  border: 2 px solid black;
+  padding: 10 px;
+}
+
 
 
 
