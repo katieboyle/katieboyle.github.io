@@ -174,9 +174,9 @@
   float: left;
 }
 .blockone, .blocktwo{
-  width:50%;
+  width:40%;
   border: 2px solid black;
-  padding: 20px;
+  padding: 5%;
   float:left;
 }
 .blockone a, .blocktwo a {
