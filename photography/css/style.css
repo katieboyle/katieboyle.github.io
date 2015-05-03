@@ -147,20 +147,21 @@
   color: black;
 }
 
-.blog {
-  font-family: 'Cardo';
-}
+
 .blog h1 {
+  font-family: 'Cardo';
   font-size: 30px;
   text-align: center;
 }
 .blog h2 {
+  font-family: 'Cardo';
   font-size:20px;
   text-align: center;
 
 }
 .blog p {
-  font-size: 10px;
+  font-family: Arial;
+  font-size: 15px;
 }
 .blog img {
   max-width: 100px;
