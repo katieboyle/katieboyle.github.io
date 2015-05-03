@@ -176,11 +176,14 @@
 .blockone, .blocktwo{
   width:40%;
   border: 2px solid black;
-  padding: 5%;
+  padding: 1%;
   float:left;
 }
 .blockone a, .blocktwo a {
   color: gray;
+}
+.blockspace {
+  padding:5%;
 }
 #post1 {
   font-family: 'Cardo';
