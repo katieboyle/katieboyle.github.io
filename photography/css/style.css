@@ -146,3 +146,35 @@
   text-align: left; 
   color: black;
 }
+
+.blog {
+  font-family: 'Cardo';
+}
+.blog h1 {
+  font-size: 30px;
+  text-align: center;
+}
+.blog h2 {
+  font-size:20px;
+  text-align: center;
+
+}
+.blog p {
+  font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
