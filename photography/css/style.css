@@ -36,8 +36,9 @@
 
 .portfolioframe {
   font-family: 'Cardo';
-  max-width: 87%;
-  margin:auto;
+  max-width: 65%;
+  margin-left: auto;
+  margin-right:auto;
   text-align: center;
   padding-top: 15px;
 } 
@@ -172,11 +173,13 @@
   display: inline-block;
   float: left;
 }
-.preview {
+.blockone, .blocktwo{
+  width:50%;
   border: 2px solid black;
   padding: 20px;
+  float:left;
 }
-.preview a {
+.blockone a, .blocktwo a {
   color: gray;
 }
 #post1 {
