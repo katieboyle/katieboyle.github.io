@@ -149,7 +149,6 @@
 
 .blog {
   font-family: 'Cardo';
-  width:100%;
 }
 .blog h1 {
   font-size: 30px;
@@ -162,6 +161,10 @@
 }
 .blog p {
   font-size: 10px;
+}
+.blog img {
+  max-width: 100px;
+  display: inline-block;
 }
 
 
