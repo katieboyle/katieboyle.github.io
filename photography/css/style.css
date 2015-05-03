@@ -183,7 +183,9 @@
   color: gray;
 }
 .blockspace {
+  display: block;
   padding:5%;
+  float:left;
 }
 #post1 {
   font-family: 'Cardo';
