@@ -1,0 +1,148 @@
+@import url(http://fonts.googleapis.com/css?family=Cardo);
+@font-face {
+  font-family: 'Paris Pro';
+  src: url("/font/parisproregular.otf")
+}
+.header{
+  font-family: 'Paris Pro';
+  font-size: 60px;
+  width:100%;
+  text-align: center;
+  padding:10px;
+}
+.line {
+  display:block;
+  width:100%;
+  height:5px;
+  background-color: black;
+}
+.nav {
+  width:100%;
+  height:20px;
+}
+.home, .blog, .pricing, .contact {
+  font-family: 'Cardo';
+  font-size: 20px;
+  width:24%;
+  border: 5px solid black;
+  float:left;
+  text-align:center;
+}
+
+.home a, .blog a, .pricing a, .contact a {
+  color: black;
+  text-decoration: none;
+}
+
+.portfolioframe {
+  font-family: 'Cardo';
+  max-width: 87%;
+  margin:auto;
+  text-align: center;
+  padding-top: 15px;
+} 
+.space{
+  padding:10px;
+  float:left;
+}
+.clear{
+  display: block;
+  clear: both;
+  width: 100%;
+  padding:10px;
+}
+#bacon a, #brunch a, #chai a, #cocoa a, #cupcakes a, #nuts a, #photobooth a, #pinecones a, #yarn a {
+  display:inline-block;
+  padding: 50px;
+  width: 250px;
+  text-align: center;
+  font-family: 'Cardo';
+  font-size: 20px;
+  text-decoration: none;
+  color: transparent;
+  font-weight: bold;
+}
+
+#bacon a:hover, #brunch a:hover, #chai a:hover, #cocoa a:hover, #cupcakes a:hover, #nuts a:hover, #photobooth a:hover, #pinecones a:hover, #yarn a:hover {
+  background-color: rgba(0,0,0,.6);
+  color: white;
+}
+
+#bacon {
+  width:350px;
+  background-image: url("/Photography/images/baconthumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#brunch {
+  width:350px;
+  background-image: url("/Photography/images/brunchthumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#chai {
+  width:350px;
+  background-image: url("/Photography/images/chaithumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#cocoa {
+  width:350px;
+  background-image: url("/Photography/images/cocoathumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#cupcakes {
+  width:350px;
+  background-image: url("/Photography/images/cupcakesthumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#nuts {
+  width:350px;
+  background-image: url("/Photography/images/nutsthumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#photobooth {
+  width:350px;
+  background-image: url("/Photography/images/photobooththumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#pinecones {
+  width:350px;
+  background-image: url("/Photography/images/pineconesthumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+#yarn {
+  width:350px;
+  background-image: url("/Photography/images/yarnthumbnail.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+}
+
+.footer{
+  font-family: 'Cardo';
+  font-size: 20px;
+  text-align: left; 
+  color: black;
+}
