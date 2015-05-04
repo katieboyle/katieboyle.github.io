@@ -166,6 +166,7 @@
 .blog p {
   font-family: Arial;
   font-size: 15px;
+  text-align: left;
 }
 .blog img {
   max-width: 150px;
@@ -175,7 +176,6 @@
 }
 .blockone, .blocktwo{
   width:40%;
-  border: 2px solid black;
   padding: 1%;
   float:left;
 }
