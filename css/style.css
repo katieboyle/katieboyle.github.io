@@ -79,11 +79,20 @@ body {
 	text-align: center;
 }
 .portfolio a{
+	display: inline-block;
+	text-align: center;
+	width:200px;
+	height:200px;
+	border-radius: 50%;
+	line-height:200px; 
 	font-family: 'Signyard One';
 	font-size: 3em;
 	text-decoration:none;
 	text-transform: uppercase;
 	color:#fffcf5;
+}
+.portfolio a:hover{
+	background-color: rgba(0,0,0,.6);
 }
 .clear {
 	clear:both;
@@ -99,11 +108,20 @@ body {
 	text-align: center;
 }
 .resume a{
+	display: inline-block;
+	text-align: center;
+	width:200px;
+	height:200px;
+	border-radius: 50%;
+	line-height:200px; 
 	font-family: 'Signyard One';
 	font-size: 3em;
 	text-decoration:none;
 	text-transform: uppercase;
 	color:#fffcf5;
+}
+.resume a:hover{
+	background-color: rgba(0,0,0,.6);
 }
 .contact {
 	width:200px;
@@ -117,11 +135,20 @@ body {
 
 }
 .contact a{
+	display: inline-block;
+	text-align: center;
+	width:200px;
+	height:200px;
+	border-radius: 50%;
+	line-height:200px; 
 	font-family: 'Signyard One';
 	font-size: 3em;
 	text-decoration:none;
 	text-transform: uppercase;
 	color:#fffcf5;
+}
+.resume a:hover{
+	background-color: rgba(0,0,0,.6);
 }
 .sayhello{
 	width:200px;
@@ -134,9 +161,18 @@ body {
 	text-align: center;
 }
 .sayhello a{
+	display: inline-block;
+	text-align: center;
+	width:200px;
+	height:200px;
+	border-radius: 50%;
+	line-height:200px; 
 	font-family: 'Signyard One';
-	font-size:3em;
-	text-decoration: none;
+	font-size: 3em;
+	text-decoration:none;
 	text-transform: uppercase;
-	color: #fffcf5;
+	color:#fffcf5;
+}
+.sayhello a:hover{
+	background-color: rgba(0,0,0,.6);
 }
