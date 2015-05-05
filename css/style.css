@@ -16,17 +16,11 @@ body {
 .header{
 	text-align: center;
 	padding:20px;
-	border-radius:50%;
-	height:400px;
-	width:400px;
-	margin:auto;
 }
 .header a{
 	font-family: 'Signyard One';
 	font-size: 6em;
 	color:#d17173;
-	height:400px;
-	width:400px;
 	padding:2px;
 	border:2px solid #d17173;
 	text-decoration: none;
@@ -121,6 +115,5 @@ body {
 	color: #d17173;
 	padding:2px;
 	border:2px solid #d17173;
-	border-radius:50%;
 	text-decoration: none;
 }
