@@ -26,11 +26,10 @@ body {
 	position: absolute;
 	bottom: 0px;
 	text-align: center;
-	margin: 0 auto;
-	border:1px solid #faa6e4;
-	width:33%;
-	margin:auto;
-}
+	margin: auto;
+	border:2px solid #faa6e4;
+	width:40%;
+}	
 
 #slogan{
 	font-family: 'Signyard One', Georgia, Times, serif;
@@ -126,6 +125,6 @@ body {
 	font-size:3em;
 	color: #faa6e4;
 	padding:2px;
-	border:1px solid #faa6e4;
+	border:2px solid #faa6e4;
 	text-decoration: none;
 }
