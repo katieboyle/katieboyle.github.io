@@ -15,14 +15,14 @@ body {
 }
 
 .header {
-	width:250px;
-	height:250px;
+	width:200px;
+	height:200px;
 	border-radius: 50%;
 	border:5px solid #9db8b1;
 	margin: auto;
 }
 .headercontent{
-	width: 250px;
+	width: 200px;
   	text-align: center;
 }
 .headercontent a{
