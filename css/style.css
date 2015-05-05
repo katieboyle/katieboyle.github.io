@@ -29,8 +29,10 @@ body {
 	text-align: center;
 }
 .headercontent img{
-	max-width: 200px; 
-	margin:auto;
+ 	padding-left: 6px;
+  	padding-top: 15px;
+  	max-width: 200px;
+  	margin: auto;
 }
 .circlenav1{
 	width:475px;
