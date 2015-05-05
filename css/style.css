@@ -25,6 +25,8 @@ body {
 	font-family: 'Signyard One';
 	font-size: 6em;
 	color:#d17173;
+	height:400px;
+	width:400px;
 	padding:2px;
 	border:2px solid #d17173;
 	text-decoration: none;
