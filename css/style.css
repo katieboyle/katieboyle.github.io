@@ -20,9 +20,9 @@ body {
 .header a{
 	font-family: 'Signyard One';
 	font-size: 7em;
-	color:#dca115;
+	color:#faa6e4;
 	padding:2px;
-	border:2px solid #dca115;
+	border:2px solid #faa6e4;
 	text-decoration: none;
 }
 .circlenav{
@@ -39,13 +39,13 @@ body {
 	padding:25px;
 	border-radius: 50%;
 	line-height:200px;
-	background-color: #faa6e4;
+	background-color: #ecda6e;
 	float:left;
 	text-align: center;
 }
 .aboutme a{
 	font-family: 'Signyard One';
-	font-size: 2em;
+	font-size: 3em;
 	text-decoration:none;
 	text-transform: uppercase;
 	color:#fffcf5;
@@ -56,13 +56,13 @@ body {
 	padding:25px;
 	border-radius: 50%;
 	line-height:200px;
-	background-color: #ecda6e;
+	background-color: #cea6fa;
 	float:left;
 	text-align: center;
 }
 .portfolio a{
 	font-family: 'Signyard One';
-	font-size: 2em;
+	font-size: 3em;
 	text-decoration:none;
 	text-transform: uppercase;
 	color:#fffcf5;
@@ -82,7 +82,7 @@ body {
 }
 .resume a{
 	font-family: 'Signyard One';
-	font-size: 2em;
+	font-size: 3em;
 	text-decoration:none;
 	text-transform: uppercase;
 	color:#fffcf5;
@@ -100,7 +100,7 @@ body {
 }
 .contact a{
 	font-family: 'Signyard One';
-	font-size: 2em;
+	font-size: 3em;
 	text-decoration:none;
 	text-transform: uppercase;
 	color:#fffcf5;
@@ -111,7 +111,7 @@ body {
 }
 .sayhello a{
 	font-family: 'Signyard One';
-	font-size:3em;
+	font-size:4em;
 	color: #faa6e4;
 	padding:2px;
 	border:2px solid #faa6e4;
