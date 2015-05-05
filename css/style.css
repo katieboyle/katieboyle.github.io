@@ -52,8 +52,13 @@ body {
 	text-align: center;
 }
 .aboutme a{
-	
-
+	display: inline-block;
+	text-align: center;
+	width:200px;
+	height:200px;
+	padding:25px;
+	border-radius: 50%;
+	line-height:200px; 
 	font-family: 'Signyard One';
 	font-size: 3em;
 	text-decoration:none;
@@ -62,12 +67,6 @@ body {
 }
 .aboutme a:hover{
 	background-color: rgba(0,0,0,.6);
-	display: block;
-	width:200px;
-	height:200px;
-	padding:25px;
-	border-radius: 50%;
-	line-height:200px; 
 }
 
 .portfolio {
