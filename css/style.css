@@ -15,10 +15,9 @@ body {
 }
 .header{
 	position:relative;
-	background-image: url("/images/colordots.jpg");
 	font-family: 'Signyard One';
 	font-size: 5em;
-	color:#78bba9;
+	color:#faa6e4;
 	text-align: center;
 	min-height: 200px;
 	width:100%;
@@ -29,7 +28,9 @@ body {
 	text-align: center;
 	width:100%;
 	margin: 0 auto;
+	border:1px solid #faa6e4;
 }
+
 #slogan{
 	font-family: 'Signyard One', Georgia, Times, serif;
 	text-align: center;
@@ -117,7 +118,7 @@ body {
 }
 .sayhello{
 	text-align:center;
-	padding-top: 30px;
+	padding:20px;
 }
 .sayhello a{
 	font-family: 'Signyard One';
