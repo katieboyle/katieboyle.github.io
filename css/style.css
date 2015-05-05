@@ -58,6 +58,10 @@ body {
 	text-transform: uppercase;
 	color:#fffcf5;
 }
+.aboutme a:hover{
+	background-color: rgba(0,0,0,.6);
+}
+
 .portfolio {
 	width:200px;
 	height:200px;
