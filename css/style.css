@@ -31,11 +31,9 @@ body {
 }
 .headercontent a{
 	text-align: center;
-	font-family: 'Signyard One';
-	font-size: 4em;
-	text-decoration:none;
-	text-transform: uppercase;
-	color:#d17173;
+}
+.headercontent img{
+	max-width: 250px;
 }
 .circlenav1{
 	width:525px;
