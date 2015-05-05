@@ -119,5 +119,6 @@ body {
 	color: #d17173;
 	padding:2px;
 	border:2px solid #d17173;
+	border-radius:50%;
 	text-decoration: none;
 }
