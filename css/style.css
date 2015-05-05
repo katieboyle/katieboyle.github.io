@@ -26,14 +26,15 @@ body {
 	text-align: center;
 }
 .headercontent img{
-	max-width: 200px;
+	max-width: 200px; 
+	margin:auto;
 }
 .circlenav1{
-	width:525px;
+	width:475px;
 	margin:auto;
 }
 .circlenav2{
-	width:800px;
+	width:725px;
 	margin:auto;
 }
 .border{
