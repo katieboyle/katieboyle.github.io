@@ -23,6 +23,10 @@ body {
 	border:2px solid #d17173;
 }
 .headercontent{
+	width:150px;
+	padding:25px;
+}
+.headercontent a{
 	text-align: center;
 	font-family: 'Signyard One';
 	font-size: 3em;
