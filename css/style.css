@@ -16,13 +16,14 @@ body {
 .header{
 	text-align: center;
 	padding:20px;
+	border-radius:50%;
+	border:2px solid #d17173;
 }
 .header a{
 	font-family: 'Signyard One';
 	font-size: 7em;
 	color:#d17173;
 	padding:2px;
-	border:2px solid #d17173;
 	text-decoration: none;
 }
 .circlenav{
