@@ -23,9 +23,6 @@ body {
 	width:100%;
 }
 .header #headercontent{
-	position: absolute;
-	bottom: 0px;
-	text-align: center;
 	margin: auto;
 	border:2px solid #faa6e4;
 	width:40%;
