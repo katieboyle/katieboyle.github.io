@@ -33,12 +33,13 @@
 	font-size: 2em;
 }
 .circlenav{
-	width:50%;
+	width:500px;
 	margin:auto;
 }
 .aboutme {
 	width:200px;
 	height:200px;
+	padding:50px;
 	border-radius: 50%;
 	line-height:200px;
 	background-color: #faa6e4;
@@ -50,10 +51,12 @@
 	text-align: center;
 	text-decoration:underline;
 	text-transform: uppercase;
+	color:black;
 }
 .portfolio {
 	width:200px;
 	height:200px;
+	padding:50px;
 	border-radius: 50%;
 	line-height:200px;
 	background-color: #ecda6e;
@@ -65,6 +68,7 @@
 	text-align: center;
 	text-decoration:underline;
 	text-transform: uppercase;
+	color:black;
 }
 .clear {
 	clear:both;
@@ -72,10 +76,11 @@
 .resume {
 	width:200px;
 	height:200px;
+	padding:50px;
 	border-radius: 50%;
 	line-height:200px;
 	background-color: #6fb8a4;
-	float: left;
+	float:left;
 }
 .resume a{
 	font-family: 'Signyard One';
@@ -83,14 +88,17 @@
 	text-align: center;
 	text-decoration:underline;
 	text-transform: uppercase;
+	color:black;
 }
 .contact {
 	width:200px;
 	height:200px;
+	padding:50px;
 	border-radius: 50%;
 	line-height:200px;
 	background-color: #7cbed8;
 	float:left;
+
 }
 .contact a{
 	font-family: 'Signyard One';
@@ -98,6 +106,7 @@
 	text-align: center;
 	text-decoration:underline;
 	text-transform: uppercase;
+	color:black;
 }
 .sayhello{
 	text-align:center;
