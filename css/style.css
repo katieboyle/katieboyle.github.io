@@ -114,6 +114,7 @@
 }
 .sayhello{
 	text-align:center;
+	padding-top: 25px;
 }
 .sayhello a{
 	font-family: 'Signyard One';
