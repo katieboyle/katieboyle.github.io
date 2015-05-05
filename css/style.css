@@ -32,19 +32,19 @@
 	text-align: center;
 	font-size: 2em;
 }
+.aboutme {
+	width:200px;
+	height:200px;
+	border-radius: 50%;
+	line-height:200px;
+	background-color: #FC8CB4;
+}
 .aboutme h1{
 	font-family: 'Signyard One';
 	font-size: 2em;
 	text-align: left;
 	text-decoration:underline;
 	text-transform: uppercase;
-}
-.aboutme ul{
-	font-family: 'Paris Pro', Helvetica, Arial, sans-serif;
-	font-size: 20px;
-	list-style-type: disc;
-	display: inline-block;
-    text-align:center;
 }
 .sayhello{
 	text-align:center;
