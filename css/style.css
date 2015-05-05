@@ -22,8 +22,11 @@ body {
 	min-height: 200px;
 	width:100%;
 }
-.header #headercontent{
-	bottom: 0px;
+.headerwrapper{
+	position:absolute;
+	bottom:0;
+}
+.headercontent{
 	margin: auto;
 	border:2px solid #faa6e4;
 	width:40%;
