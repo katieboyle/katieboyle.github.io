@@ -15,12 +15,13 @@ body {
 }
 
 .header {
-	width:200px;
-	height:200px;
+	width:250px;
+	height:250px;
 	padding:25px;
 	border-radius: 50%;
 	line-height:200px;
 	border:2px solid #d17173;
+	margin: auto;
 }
 .headercontent{
 	width:150px;
