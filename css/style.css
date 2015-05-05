@@ -15,9 +15,8 @@ body {
 }
 
 .header {
-	width:200px;
-	height:200px;
-	padding:15px;
+	width:225px;
+	height:225px;
 	border-radius: 50%;
 	border:5px solid #c9c7bb;
 	margin: auto;
