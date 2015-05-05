@@ -23,16 +23,13 @@ body {
 	width:100%;
 }
 .headerwrapper{
-	text-align:center;
+	margin: auto;
 	display:block;
 	position:absolute;
 	bottom:0;
 }
 .headercontent{
-	margin: auto;
 	border:2px solid #faa6e4;
-	width:50%;
-	text-align:center;
 }	
 
 #slogan{
