@@ -16,7 +16,10 @@ body {
 .header{
 	text-align: center;
 	padding:20px;
+	height:400px;
+	width:400px;
 }
+
 .header a{
 	font-family: 'Signyard One';
 	font-size: 6em;
@@ -24,8 +27,6 @@ body {
 	padding:2px;
 	border:2px solid #d17173;
 	border-radius:50%;
-	height:400px;
-	width:400px;
 	text-decoration: none;
 }
 .circlenav{
