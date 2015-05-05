@@ -21,7 +21,10 @@ body {
 	border:5px solid #c9c7bb;
 	margin: auto;
 }
-
+.headercontent{
+	margin:auto;
+	text-align:center;
+}
 .headercontent a{
 	text-align: center;
 }
