@@ -24,8 +24,9 @@ body {
 	margin: auto;
 }
 .headercontent{
-	width:150px;
+	width:250px;
 	padding:25px;
+	line-height:10px;
 }
 .headercontent a{
 	text-align: center;
