@@ -16,7 +16,6 @@ body {
 .header{
 	text-align: center;
 	padding:20px;
-
 }
 .header a{
 	font-family: 'Signyard One';
@@ -24,14 +23,14 @@ body {
 	color:#d17173;
 	padding:2px;
 	border:2px solid #d17173;
-	border-radius: 50%;
-	height:300px;
-	width:300px;
-	line-height: 300px;
 	text-decoration: none;
 }
 .circlenav{
 	width:525px;
+	margin:auto;
+}
+.circlenav2{
+	width:800px;
 	margin:auto;
 }
 .border{
@@ -111,14 +110,19 @@ body {
 	color:#fffcf5;
 }
 .sayhello{
-	text-align:center;
-	padding:20px;
+	width:200px;
+	height:200px;
+	padding:25px;
+	border-radius: 50%;
+	line-height:200px;
+	background-color: #d17173;
+	float:left;
+	text-align: center;
 }
 .sayhello a{
 	font-family: 'Signyard One';
-	font-size:4em;
-	color: #d17173;
-	padding:2px;
-	border:2px solid #d17173;
+	font-size:3em;
 	text-decoration: none;
+	text-transform: uppercase;
+	color: #fffcf5;
 }
