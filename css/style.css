@@ -21,17 +21,15 @@ body {
 	border-radius: 50%;
 	line-height:200px;
 	border:2px solid #d17173;
-	float:left;
-	text-align: center;
 }
-.header a{
+.headercontent{
+	text-align: center;
 	font-family: 'Signyard One';
 	font-size: 3em;
 	text-decoration:none;
 	text-transform: uppercase;
 	color:#d17173;
 }
-
 .circlenav1{
 	width:525px;
 	margin:auto;
