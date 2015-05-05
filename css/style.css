@@ -29,6 +29,7 @@ body {
 	bottom:0;
 }
 .headercontent{
+	display:block;
 	border:2px solid #faa6e4;
 }	
 
