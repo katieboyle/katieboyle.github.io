@@ -19,18 +19,13 @@ body {
 	font-size: 5em;
 	color:#faa6e4;
 	text-align: center;
-	min-height: 200px;
 	width:100%;
-}
-.headerwrapper{
-	margin: auto;
-	display:block;
-	position:absolute;
-	bottom:0;
+	padding:20px;
 }
 .headercontent{
 	display:block;
 	border:2px solid #faa6e4;
+	margin:auto;
 }	
 
 #slogan{
