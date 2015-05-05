@@ -58,6 +58,7 @@ body {
 	padding:25px;
 	border-radius: 50%;
 	line-height:200px; 
+	float:left;
 	font-family: 'Signyard One';
 	font-size: 3em;
 	text-decoration:none;
