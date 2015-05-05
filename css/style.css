@@ -23,6 +23,7 @@ body {
 	width:100%;
 }
 .headerwrapper{
+	text-align:center;
 	display:block;
 	position:absolute;
 	bottom:0;
@@ -30,7 +31,8 @@ body {
 .headercontent{
 	margin: auto;
 	border:2px solid #faa6e4;
-	width:40%;
+	width:50%;
+	text-align:center;
 }	
 
 #slogan{
