@@ -42,9 +42,8 @@ body {
 	display:inline-block;
 }
 .aboutme {
-	width:200px;
-	height:200px;
-	padding:25px;
+	width:225px;
+	height:225px;
 	border-radius: 50%;
 	line-height:200px;
 	background-color: #ebd0c5;
@@ -54,10 +53,10 @@ body {
 .aboutme a{
 	display: inline-block;
 	text-align: center;
-	width:200px;
-	height:200px;
+	width:225px;
+	height:225px;
 	border-radius: 50%;
-	line-height:200px; 
+	line-height:225px; 
 	font-family: 'Signyard One';
 	font-size: 3em;
 	text-decoration:none;
@@ -69,9 +68,8 @@ body {
 }
 
 .portfolio {
-	width:200px;
-	height:200px;
-	padding:25px;
+	width:225px;
+	height:225px;
 	border-radius: 50%;
 	line-height:200px;
 	background-color: #cbddc5;
@@ -81,10 +79,10 @@ body {
 .portfolio a{
 	display: inline-block;
 	text-align: center;
-	width:200px;
-	height:200px;
+	width:225px;
+	height:225px;
 	border-radius: 50%;
-	line-height:200px; 
+	line-height:225px; 
 	font-family: 'Signyard One';
 	font-size: 3em;
 	text-decoration:none;
@@ -98,11 +96,10 @@ body {
 	clear:both;
 }
 .resume {
-	width:200px;
-	height:200px;
-	padding:25px;
+	width:225px;
+	height:225px;
 	border-radius: 50%;
-	line-height:200px;
+	line-height:225px;
 	background-color: #9db8b1;
 	float:left;
 	text-align: center;
@@ -110,10 +107,10 @@ body {
 .resume a{
 	display: inline-block;
 	text-align: center;
-	width:200px;
-	height:200px;
+	width:225px;
+	height:225px;
 	border-radius: 50%;
-	line-height:200px; 
+	line-height:225px; 
 	font-family: 'Signyard One';
 	font-size: 3em;
 	text-decoration:none;
@@ -124,11 +121,10 @@ body {
 	background-color: rgba(0,0,0,.6);
 }
 .contact {
-	width:200px;
-	height:200px;
-	padding:25px;
+	width:225px;
+	height:225px;
 	border-radius: 50%;
-	line-height:200px;
+	line-height:225px;
 	background-color: #c9c7bb;
 	float:left;
 	text-align: center;
@@ -137,10 +133,10 @@ body {
 .contact a{
 	display: inline-block;
 	text-align: center;
-	width:200px;
-	height:200px;
+	width:225px;
+	height:225px;
 	border-radius: 50%;
-	line-height:200px; 
+	line-height:225px; 
 	font-family: 'Signyard One';
 	font-size: 3em;
 	text-decoration:none;
@@ -151,11 +147,10 @@ body {
 	background-color: rgba(0,0,0,.6);
 }
 .sayhello{
-	width:200px;
-	height:200px;
-	padding:25px;
+	width:225px;
+	height:225px;
 	border-radius: 50%;
-	line-height:200px;
+	line-height:225px;
 	background-color: #E3AAAB;
 	float:left;
 	text-align: center;
@@ -163,10 +158,10 @@ body {
 .sayhello a{
 	display: inline-block;
 	text-align: center;
-	width:200px;
-	height:200px;
+	width:225px;
+	height:225px;
 	border-radius: 50%;
-	line-height:200px; 
+	line-height:225px; 
 	font-family: 'Signyard One';
 	font-size: 3em;
 	text-decoration:none;
