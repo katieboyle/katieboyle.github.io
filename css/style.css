@@ -6,6 +6,9 @@
 	font-family: 'Signyard One';
 	src: url("/font/signyardone.otf");
 }
+.body {
+	background-color: #fffcf5;
+}
 .enter img{
 	width:100%;
 	height:auto;
