@@ -14,21 +14,21 @@ body {
 	height:auto;
 }
 .header{
-	width:300px;
-	height:300px;
-	padding:25px;
-	border-radius: 50%;
-	line-height:300px;
-	border:2px solid #d17173;
-	float:left;
 	text-align: center;
+	padding:20px;
+
 }
 .header a{
 	font-family: 'Signyard One';
-	font-size: 5em;
-	text-decoration:none;
-	text-transform: uppercase;
+	font-size: 6em;
 	color:#d17173;
+	padding:2px;
+	border:2px solid #d17173;
+	border-radius: 50%;
+	height:300px;
+	width:300px;
+	line-height: 300px;
+	text-decoration: none;
 }
 .circlenav{
 	width:525px;
