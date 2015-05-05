@@ -32,17 +32,70 @@
 	text-align: center;
 	font-size: 2em;
 }
+.circlenav{
+	width:50%;
+	margin:auto;
+}
 .aboutme {
 	width:200px;
 	height:200px;
 	border-radius: 50%;
 	line-height:200px;
-	background-color: #FC8CB4;
+	background-color: #faa6e4;
+	float:left;
 }
-.aboutme h1{
+.aboutme a{
 	font-family: 'Signyard One';
 	font-size: 2em;
-	text-align: left;
+	text-align: center;
+	text-decoration:underline;
+	text-transform: uppercase;
+}
+.portfolio {
+	width:200px;
+	height:200px;
+	border-radius: 50%;
+	line-height:200px;
+	background-color: #ecda6e;
+	float:left;
+}
+.portfolio a{
+	font-family: 'Signyard One';
+	font-size: 2em;
+	text-align: center;
+	text-decoration:underline;
+	text-transform: uppercase;
+}
+.clear {
+	clear:both;
+}
+.resume {
+	width:200px;
+	height:200px;
+	border-radius: 50%;
+	line-height:200px;
+	background-color: #6fb8a4;
+	float: left;
+}
+.resume a{
+	font-family: 'Signyard One';
+	font-size: 2em;
+	text-align: center;
+	text-decoration:underline;
+	text-transform: uppercase;
+}
+.contact {
+	width:200px;
+	height:200px;
+	border-radius: 50%;
+	line-height:200px;
+	background-color: #7cbed8;
+	float:left;
+}
+.contact a{
+	font-family: 'Signyard One';
+	font-size: 2em;
+	text-align: center;
 	text-decoration:underline;
 	text-transform: uppercase;
 }
