@@ -177,7 +177,7 @@ body {
 	background-color: rgba(0,0,0,.6);
 }
 
-@media only screen and (max-device-width:736px) and (max-width:600px) {
+@media only screen and (max-device-width:736px){
 	.headerborder{
 		padding:40px;
 	}
