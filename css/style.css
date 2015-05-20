@@ -178,71 +178,77 @@ body {
 }
 
 @media only screen and (max-width:480px){
+	.circlenav1{
+		width:100%;
+	}
+	.circlenav2{
+		width:100%;
+	}
 	.aboutme{
 		width:100%;
 		height:50px;
-		border-radius: none;
+		border-radius: 0;
 		line-height:50%;
 		float:none;
 	}
 	.aboutme a{
 		width:100%;
 		height:50px;
-		border-radius: none;
+		border-radius: 0;
 		line-height:50%;
 		float:none;
 	}
 	.portfolio{
 		width:100%;
 		height:50px;
-		border-radius: none;
+		border-radius: 0;
 		line-height:50%;
 		float:none;
 	}
 	.portfolio a{
 		width:100%;
 		height:50px;
-		border-radius: none;
+		border-radius: 0;
 		line-height:50%;
 		float:none;
 	}.resume{
 		width:100%;
 		height:50px;
-		border-radius: none;
+		border-radius: 0;
 		line-height:50%;
 		float:none;
 	}
 	.resume a{
 		width:100%;
 		height:50px;
-		border-radius: none;
+		border-radius: 0;
 		line-height:50%;
 		float:none;
 	}
 	.contact{
 		width:100%;
 		height:50px;
-		border-radius: none;
+		border-radius: 0;
 		line-height:50%;
 		float:none;
 	}
 	.contact a{
 		width:100%;
 		height:50px;
-		border-radius: none;
+		border-radius: 0;
 		line-height:50%;
 		float:none;
 	}.sayhello{
 		width:100%;
 		height:50px;
-		border-radius: none;
+		border-radius: 0;
 		line-height:50%;
 		float:none;
 	}
 	.sayhello a{
 		width:100%;
 		height:50px;
-		border-radius: none;
+		border-radius: 0;
 		line-height:50%;
 		float:none;
 	}
