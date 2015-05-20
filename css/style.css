@@ -217,7 +217,6 @@ body {
 		border-radius: 0;
 		line-height:200px;
 		float:none;
-	
 	}
 	.aboutme a{
 		width:100%;
@@ -233,7 +232,6 @@ body {
 		border-radius: 0;
 		line-height:200px;
 		float:none;
-	
 	}
 	.portfolio a{
 		width:100%;
@@ -249,7 +247,6 @@ body {
 		border-radius: 0;
 		line-height:200px;
 		float:none;
-	
 	}
 	.resume a{
 		width:100%;
@@ -274,13 +271,13 @@ body {
 		line-height:200px;
 		float:none;
 		font-size: 170px;
-	}.contact{
+	}
+	.contact{
 		width:100%;
 		height:200px;
 		border-radius: 0;
 		line-height:200px;
 		float:none;
-	
 	}
 	.contact a{
 		width:100%;
