@@ -179,11 +179,11 @@ body {
 
 @media only screen and (max-device-width:736px){
 	.headerborder{
-		padding:70px;
+		padding:40px;
 	}
 	.header {
-		width:375px;
-		height:375px;
+		width:400px;
+		height:400px;
 		border-radius: 50%;
 		border:7px solid #c9c7bb;
 		margin: auto;
@@ -198,7 +198,7 @@ body {
 	.headercontent img{
  		padding-left: 6px;
   		padding-top: 15px;
-  		max-width: 350px;
+  		max-width: 380px;
   		margin: auto;
 	}
 	.circlenav1{
@@ -239,7 +239,7 @@ body {
 		border-radius: 0;
 		line-height:200px;
 		float:none;
-		font-size: 150px;
+		font-size: 170px;
 	}.resume{
 		width:100%;
 		height:200px;
@@ -253,7 +253,7 @@ body {
 		border-radius: 0;
 		line-height:200px;
 		float:none;
-		font-size: 150px;
+		font-size: 170px;
 	}
 	.contact{
 		width:100%;
@@ -268,7 +268,7 @@ body {
 		border-radius: 0;
 		line-height:200px;
 		float:none;
-		font-size: 150px;
+		font-size: 170px;
 	}.sayhello{
 		width:100%;
 		height:200px;
@@ -282,7 +282,7 @@ body {
 		border-radius: 0;
 		line-height:200px;
 		float:none;
-		font-size: 150px;
+		font-size: 170px;
 	}
 }
 
