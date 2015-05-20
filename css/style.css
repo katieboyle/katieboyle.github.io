@@ -179,12 +179,11 @@ body {
 
 @media only screen and (max-device-width:736px){
 	.headerborder{
-		padding-top:10px;
-		padding-bottom:50px;
+		padding:70px;
 	}
 	.header {
-		width:325px;
-		height:325px;
+		width:375px;
+		height:375px;
 		border-radius: 50%;
 		border:7px solid #c9c7bb;
 		margin: auto;
@@ -199,7 +198,7 @@ body {
 	.headercontent img{
  		padding-left: 6px;
   		padding-top: 15px;
-  		max-width: 300px;
+  		max-width: 350px;
   		margin: auto;
 	}
 	.circlenav1{
@@ -225,7 +224,7 @@ body {
 		border-radius: 0;
 		line-height:200px;
 		float:none;
-		font-size: 150px;
+		font-size: 200px;
 	}
 	.portfolio{
 		width:100%;
