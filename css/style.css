@@ -177,7 +177,10 @@ body {
 	background-color: rgba(0,0,0,.6);
 }
 .pdfviewer{
-	height:100%;
+	width:50%;
+	height:1300px;
+	margin:2em auto;
+	border:10px solid #9db8b1;
 }
 
 @media only screen and (max-device-width:736px){
