@@ -125,7 +125,7 @@ body {
 .resume a:hover{
 	background-color: rgba(0,0,0,.6);
 }
-.contact {
+.blog {
 	width:225px;
 	height:225px;
 	border-radius: 50%;
@@ -134,6 +134,31 @@ body {
 	float:left;
 	text-align: center;
 
+}
+.blog a{
+	display: inline-block;
+	text-align: center;
+	width:225px;
+	height:225px;
+	border-radius: 50%;
+	line-height:225px; 
+	font-family: 'Signyard One';
+	font-size: 3em;
+	text-decoration:none;
+	text-transform: uppercase;
+	color:#fffcf5;
+}
+.blog a:hover{
+	background-color: rgba(0,0,0,.6);
+}
+.contact{
+	width:225px;
+	height:225px;
+	border-radius: 50%;
+	line-height:225px;
+	background-color: #E3AAAB;
+	float:left;
+	text-align: center;
 }
 .contact a{
 	display: inline-block;
@@ -149,31 +174,6 @@ body {
 	color:#fffcf5;
 }
 .contact a:hover{
-	background-color: rgba(0,0,0,.6);
-}
-.sayhello{
-	width:225px;
-	height:225px;
-	border-radius: 50%;
-	line-height:225px;
-	background-color: #E3AAAB;
-	float:left;
-	text-align: center;
-}
-.sayhello a{
-	display: inline-block;
-	text-align: center;
-	width:225px;
-	height:225px;
-	border-radius: 50%;
-	line-height:225px; 
-	font-family: 'Signyard One';
-	font-size: 3em;
-	text-decoration:none;
-	text-transform: uppercase;
-	color:#fffcf5;
-}
-.sayhello a:hover{
 	background-color: rgba(0,0,0,.6);
 }
 
@@ -255,7 +255,21 @@ body {
 		float:none;
 		font-size: 170px;
 	}
-	.contact{
+	.blog{
+		width:100%;
+		height:200px;
+		border-radius: 0;
+		line-height:200px;
+		float:none;
+	}
+	.blog a{
+		width:100%;
+		height:200px;
+		border-radius: 0;
+		line-height:200px;
+		float:none;
+		font-size: 170px;
+	}.contact{
 		width:100%;
 		height:200px;
 		border-radius: 0;
@@ -263,20 +277,6 @@ body {
 		float:none;
 	}
 	.contact a{
-		width:100%;
-		height:200px;
-		border-radius: 0;
-		line-height:200px;
-		float:none;
-		font-size: 170px;
-	}.sayhello{
-		width:100%;
-		height:200px;
-		border-radius: 0;
-		line-height:200px;
-		float:none;
-	}
-	.sayhello a{
 		width:100%;
 		height:200px;
 		border-radius: 0;
