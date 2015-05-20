@@ -185,6 +185,7 @@ body {
 		width:100%;
 	}
 	.aboutme{
+		display: block;
 		width:100%;
 		height:50px;
 		border-radius: 0;
@@ -192,6 +193,7 @@ body {
 		float:none;
 	}
 	.aboutme a{
+		display: block;
 		width:100%;
 		height:50px;
 		border-radius: 0;
