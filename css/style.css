@@ -262,7 +262,7 @@ body {
 		border-radius: 0;
 		line-height:200px;
 		float:none;
-	
+		background-color: #9db8b1;
 	}
 	.blog a{
 		width:100%;
@@ -278,6 +278,7 @@ body {
 		border-radius: 0;
 		line-height:200px;
 		float:none;
+		background-color: #cbddc5;
 	}
 	.contact a{
 		width:100%;
