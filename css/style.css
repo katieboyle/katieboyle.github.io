@@ -178,6 +178,30 @@ body {
 }
 
 @media only screen and (max-device-width:736px){
+	.headerborder{
+		padding-top:10px;
+		padding-bottom:20px;
+	}
+	.header {
+		width:325px;
+		height:325px;
+		border-radius: 50%;
+		border:5px solid #c9c7bb;
+		margin: auto;
+	}
+	.headercontent{
+		margin:auto;
+		text-align:center;
+	}
+	.headercontent a{
+		text-align: center;
+	}
+	.headercontent img{
+ 		padding-left: 6px;
+  		padding-top: 15px;
+  		max-width: 300px;
+  		margin: auto;
+	}
 	.circlenav1{
 		width:100%;
 	}
