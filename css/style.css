@@ -176,63 +176,47 @@ body {
 .contact a:hover{
 	background-color: rgba(0,0,0,.6);
 }
-.header1wrapper{
-	padding:20px;
-}
-.header1 {
+
+header {
 	width:100%;
 }
-.header1 img{
+header img{
 	padding-left:4px;
-	border-radius: 50%;
 	max-width:150px;
+	float:left;
 }
-.header1nav {
-	display:inline-block;
+nav {
+	display:inline;
 	padding:65px 40px 0px 0px;
 	font-family: 'Signyard One';
 	font-size:35px;
-	display:inline;
 	text-decoration: none;
 	text-align: center;
-	float:right;
 }
-.header1nav a{
-	text-decoration: none;	
-}
-.nav1{
-	display:inline;
-	padding:5px;
-}
+
 .nav1 a{
+	text-decoration: none;
+	padding:5px;
 	color:#ebd0c5;
 }
-.nav2{
-	display:inline;
-	padding:5px;
-}
 .nav2 a{
+	text-decoration: none;
+	padding:5px;
 	color:#cbddc5;
 }
-.nav3{
-	display:inline;
-	padding:5px;
-}
 .nav3 a{
+	text-decoration: none;
+	padding:5px;
 	color:#9db8b1;
 }
-.nav4{
-	display:inline;
-	padding:5px;
-}
 .nav4 a{
+	text-decoration: none;
+	padding:5px;
 	color:#c9c7bb;
 }
-.nav5{
-	display:inline;
-	padding:5px;
-}
 .nav5 a{
+	text-decoration: none;
+	padding:5px;
 	color:#e3aaab;
 }
 .pdfviewer{
