@@ -244,7 +244,7 @@ nav {
   width: 100%;
   padding:10px;
 }
-#bacon a, #brunch a, #chai a, #cocoa a, #cupcakes a, #nuts a, #photobooth a, #pinecones a, #yarn a {
+#sampleone a, #brunch a, #chai a, #cocoa a, #cupcakes a, #nuts a, #photobooth a, #pinecones a, #yarn a {
   display:inline-block;
   padding: 50px;
   width: 250px;
@@ -256,14 +256,14 @@ nav {
   font-weight: bold;
 }
 
-#bacon a:hover, #brunch a:hover, #chai a:hover, #cocoa a:hover, #cupcakes a:hover, #nuts a:hover, #photobooth a:hover, #pinecones a:hover, #yarn a:hover {
+#sampleone a:hover, #brunch a:hover, #chai a:hover, #cocoa a:hover, #cupcakes a:hover, #nuts a:hover, #photobooth a:hover, #pinecones a:hover, #yarn a:hover {
   background-color: rgba(0,0,0,.6);
   color: white;
 }
 
-#bacon {
+#sampleone {
   width:350px;
-  background-image: url("/photography/images/baconthumbnail.jpg");
+  background-image: url("/photography/images/hiremojodemopage.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   float:left;
