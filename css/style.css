@@ -221,34 +221,39 @@ nav {
 }
 .mainnav1 a{
 	text-decoration: none;
-	padding:5px;
+	padding:15px;
 	color:#ebd0c5;
-	font-size:50px;
+	border: 3px solid lightgrey;
+    border-radius: 50%;
 }
 .mainnav2 a{
 	text-decoration: none;
-	padding:5px;
+	padding:15px;
 	color:#cbddc5;
-	font-size:50px;
+	border: 3px solid lightgrey;
+    border-radius: 50%;
 
 }
 .mainnav3 a{
 	text-decoration: none;
-	padding:5px;
+	padding:15px;
 	color:#9db8b1;
-	font-size:50px;
+	border: 3px solid lightgrey;
+    border-radius: 50%;
 }
 .mainnav4 a{
 	text-decoration: none;
-	padding:5px;
+	padding:15px;
 	color:#c9c7bb;
-	font-size:50px;
+	border: 3px solid lightgrey;
+    border-radius: 50%;
 }
 .mainnav5 a{
 	text-decoration: none;
-	padding:5px;
+	padding:15px;
 	color:#e3aaab;
-	font-size:50px;
+	border: 3px solid lightgrey;
+    border-radius: 50%;
 }
 .pdfviewer{
 	width:65%;
