@@ -219,6 +219,37 @@ nav {
 	padding:5px;
 	color:#e3aaab;
 }
+.mainnav1 a{
+	text-decoration: none;
+	padding:5px;
+	color:#ebd0c5;
+	font-size:50px;
+}
+.mainnav2 a{
+	text-decoration: none;
+	padding:5px;
+	color:#cbddc5;
+	font-size:50px;
+
+}
+.mainnav3 a{
+	text-decoration: none;
+	padding:5px;
+	color:#9db8b1;
+	font-size:50px;
+}
+.mainnav4 a{
+	text-decoration: none;
+	padding:5px;
+	color:#c9c7bb;
+	font-size:50px;
+}
+.mainnav5 a{
+	text-decoration: none;
+	padding:5px;
+	color:#e3aaab;
+	font-size:50px;
+}
 .pdfviewer{
 	width:65%;
 	height:735px;
