@@ -189,8 +189,11 @@ nav {
 	font-family: 'Signyard One';
 	font-size:35px;
 	text-decoration: none;
-	text-align: right;
 	vertical-align: super;
+}
+
+nav a{
+	text-align: right;
 }
 
 .nav1 a{
