@@ -178,7 +178,8 @@ body {
 }
 
 header {
-	width:100%;
+	width:98%;
+	margin:auto;
 }
 header img{
 	margin-left: 2%;
