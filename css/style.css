@@ -182,7 +182,6 @@ header {
 }
 header img{
 	margin-left: 2%;
-  	margin-right: 35%;
 	max-width:150px;
 }
 nav {
@@ -190,7 +189,7 @@ nav {
 	font-family: 'Signyard One';
 	font-size:35px;
 	text-decoration: none;
-	text-align: center;
+	text-align: right;
 	vertical-align: super;
 }
 
@@ -344,10 +343,6 @@ nav {
 		border-radius: 50%;
 		border:7px solid #c9c7bb;
 		margin: auto;
-	}
-	header img{
-	margin-left: 2%;
-  	margin-right: 15%;
 	}
 	.headercontent{
 		margin:auto;
