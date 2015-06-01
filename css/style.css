@@ -345,6 +345,10 @@ nav {
 		border:7px solid #c9c7bb;
 		margin: auto;
 	}
+	header img{
+	margin-left: 2%;
+  	margin-right: 25%;
+	}
 	.headercontent{
 		margin:auto;
 		text-align:center;
