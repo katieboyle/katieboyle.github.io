@@ -190,10 +190,7 @@ nav {
 	font-size:35px;
 	text-decoration: none;
 	vertical-align: super;
-}
-
-nav a{
-	text-align: right;
+	float:right;
 }
 
 .nav1 a{
