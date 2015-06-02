@@ -340,6 +340,7 @@ nav {
 	text-align: center;
 	line-height: 210%;
   	vertical-align: top;
+  	margin: 10% auto;
 }
 @media only screen and (max-device-width:736px){
 	.headerborder{
