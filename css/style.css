@@ -315,7 +315,7 @@ nav {
 }
 
 .blogcontent{
-	font-family:'Paris Pro';
+	font-family:'Cardo';
 	font-size: 1.2em;
 	width:80%;
 	padding:20px;
@@ -328,13 +328,13 @@ nav {
 	font-size:1.3em;
 }
 .aboutmecontent{
-	font-family:'Paris Pro';
+	font-family:'Cardo';
 	font-size:1.2em;
 	width:80%;
 	margin:10% auto;
 }
 .contactinfo {
-	font-family: 'Noto Serif';
+	font-family:'Cardo';
   	font-size: 3em;
 	color: #e3aaab;
 	display: inline-block;
