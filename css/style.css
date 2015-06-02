@@ -333,6 +333,11 @@ nav {
 	width:80%;
 	margin:10% auto;
 }
+.contactinfo p{
+	color:#fffcf5;
+	display: inline-block;
+	text-align: center;
+}
 @media only screen and (max-device-width:736px){
 	.headerborder{
 		padding:40px;
