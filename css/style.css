@@ -334,7 +334,8 @@ nav {
 	margin:10% auto;
 }
 .contactinfo {
-	font-size:3em;
+	font-family: 'Noto Serif';
+  	font-size: 3em;
 	color: #e3aaab;
 	display: inline-block;
 	text-align: center;
