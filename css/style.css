@@ -338,6 +338,8 @@ nav {
 	color: #e3aaab;
 	display: inline-block;
 	text-align: center;
+	line-height: 210%;
+  	vertical-align: top;
 }
 @media only screen and (max-device-width:736px){
 	.headerborder{
