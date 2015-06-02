@@ -333,8 +333,9 @@ nav {
 	width:80%;
 	margin:10% auto;
 }
-.contactinfo p{
-	color:#fffcf5;
+.contactinfo {
+	font-size:3em;
+	color: #e3aaab;
 	display: inline-block;
 	text-align: center;
 }
