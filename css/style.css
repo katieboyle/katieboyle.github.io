@@ -193,8 +193,9 @@ nav {
 	padding:5px;
 	margin:15px;
 }
-
-
+nav a {
+	text-decoration: none;
+}
 
 .nav1 {
 	color:#ebd0c5;
