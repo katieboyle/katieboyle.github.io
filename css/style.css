@@ -283,7 +283,7 @@ nav a {
 	font-family:'Cardo';
 	font-size: 1.2em;
 	width:80%;
-	padding:20px;
+	padding:5%;
 	margin: 10% auto;
 	border:10px solid #c9c7bb;
 }
@@ -299,6 +299,7 @@ nav a {
 	width:80%;
 	margin:10% auto;
 	border:10px solid #ebd0c5;
+	padding:5%;
 }
 .contactinfo {
 	font-family:'Cardo';
