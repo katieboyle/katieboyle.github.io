@@ -193,7 +193,11 @@ nav {
   	float: right;
   	text-decoration: none;
 	padding:5px;
-	margin:10px;
+	margin:15px;
+}
+
+nav a {
+	text-decoration: none;
 }
 
 .nav1 {
