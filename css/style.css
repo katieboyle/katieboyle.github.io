@@ -188,17 +188,13 @@ nav {
 	display:inline;
 	font-family: 'Signyard One';
 	font-size: 35px;
-	text-decoration: none;
-	line-height: 200%;
   	float: right;
   	text-decoration: none;
 	padding:5px;
 	margin:15px;
 }
 
-nav a {
-	text-decoration: none;
-}
+
 
 .nav1 {
 	color:#ebd0c5;
