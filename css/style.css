@@ -250,6 +250,7 @@ nav a {
   background-size: cover;
   float:left;
   border: 5px solid #cbddc5;
+  margin:10px;
 }
 .sample a {
   display:inline-block;
