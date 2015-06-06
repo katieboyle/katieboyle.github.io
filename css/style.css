@@ -244,7 +244,14 @@ nav a {
   width: 100%;
   padding:10px;
 }
-#sampleone a, #sampletwo a {
+.sample {
+  width:350px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  float:left;
+  border: 5px solid #cbddc5;
+}
+.sample a {
   display:inline-block;
   padding: 50px;
   width: 250px;
@@ -256,27 +263,18 @@ nav a {
   font-weight: bold;
 }
 
-#sampleone a:hover, #sampletwo a:hover {
+.sample a:hover {
   background-color: rgba(0,0,0,.6);
   color: white;
 }
 
 #sampleone {
-  width:350px;
   background-image: url("/images/hiremojodemopage.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  float:left;
-  border: 5px solid #cbddc5;
+
 }
 
 #sampletwo {
-  width:350px;
   background-image: url("/images/zoebabianphotography.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  float:left;
-  border: 5px solid #cbddc5;
 }
 
 .blogcontent{
