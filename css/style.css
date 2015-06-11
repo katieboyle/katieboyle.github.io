@@ -54,7 +54,6 @@ body {
 	background-color: #ebd0c5;
 	float:left;
 	text-align: center;
-	border:5px solid;
 }
 .aboutme a{
 	display: inline-block;
@@ -68,7 +67,6 @@ body {
 	text-decoration:none;
 	text-transform: uppercase;
 	color:#fffcf5;
-	border:5px solid;
 }
 .aboutme a:hover{
 	background-color: rgba(0,0,0,.6);
@@ -82,7 +80,6 @@ body {
 	background-color: #cbddc5;
 	float:left;
 	text-align: center;
-	border:5px solid;
 }
 .portfolio a{
 	display: inline-block;
@@ -96,7 +93,6 @@ body {
 	text-decoration:none;
 	text-transform: uppercase;
 	color:#fffcf5;
-	border:5px solid;
 }
 .portfolio a:hover{
 	background-color: rgba(0,0,0,.6);
@@ -112,7 +108,6 @@ body {
 	background-color: #9db8b1;
 	float:left;
 	text-align: center;
-	border:5px solid;
 }
 .resume a{
 	display: inline-block;
@@ -126,7 +121,6 @@ body {
 	text-decoration:none;
 	text-transform: uppercase;
 	color:#fffcf5;
-	border:5px solid;
 }
 .resume a:hover{
 	background-color: rgba(0,0,0,.6);
@@ -139,7 +133,6 @@ body {
 	background-color: #c9c7bb;
 	float:left;
 	text-align: center;
-	border:5px solid;
 
 }
 .blog a{
@@ -154,7 +147,6 @@ body {
 	text-decoration:none;
 	text-transform: uppercase;
 	color:#fffcf5;
-	border:5px solid;
 }
 .blog a:hover{
 	background-color: rgba(0,0,0,.6);
@@ -167,7 +159,6 @@ body {
 	background-color: #e3aaab;
 	float:left;
 	text-align: center;
-	border:5px solid;
 }
 .contact a{
 	display: inline-block;
@@ -181,7 +172,6 @@ body {
 	text-decoration:none;
 	text-transform: uppercase;
 	color:#fffcf5;
-	border:5px solid;
 }
 .contact a:hover{
 	background-color: rgba(0,0,0,.6);
