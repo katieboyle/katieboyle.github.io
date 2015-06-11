@@ -8,6 +8,8 @@
 }
 body {
 	background-color: #fffcf5;
+	font-family: 'Arvo';
+	font-weight: 400;
 }
 .enter img{
 	width:100%;
